@@ -10,7 +10,7 @@ PyTorch implementation of GOMAA-Geo: GOal Modality Agnostic Active Geo-localizat
 
 [Anindya Sarkar*](https://scholar.google.co.in/citations?user=2hQyYz0AAAAJ&hl=en),
 [Srikumar Sastry*](https://sites.wustl.edu/srikumarsastry/),
-[Aleksis Pirinen](),
+[Aleksis Pirinen](https://aleksispi.github.io/),
 [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html),
 [Nathan Jacobs](https://jacobsn.github.io/),
 [Yevgeniy Vorobeychik](https://vorobeychik.com/)
