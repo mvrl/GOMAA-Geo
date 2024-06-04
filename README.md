@@ -1,5 +1,5 @@
 # GOMAA-Geo
-PyTorch implementation of GOMAA-Geo: GOal Modality Agnostic Active Geo-localization
+PyTorch implementation of _GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_
 
 <div align="center">
 <img src="imgs/logo-3.png" width="250">
@@ -17,7 +17,7 @@ PyTorch implementation of GOMAA-Geo: GOal Modality Agnostic Active Geo-localizat
 (*Corresponding Author)
 </div>
 
-This repository is the official implementation of [GOMAA-Geo](). GOMAA-Geo is Goal Modality Agnostic Active Geolocalization Agent, that can geolocalize a target (satellite patch, ground-level image or textual description) in a partially observed satellite imagery.
+This repository is the official implementation of [_GOMAA-Geo_](), a goal modality agnostic active geo-localization agent that can geo-localize a goal location -- specified as an aerial patch, ground-level image, or textual description -- by navigating partially observed aerial imagery.
 
 ![](imgs/teaser_v2.jpg)
 
@@ -27,11 +27,10 @@ This repository is the official implementation of [GOMAA-Geo](). GOMAA-Geo is Go
 - [x] Release PyTorch `ckpt` files for all models
 
 ## 🧑‍💻 Setup and Training
-
 Look at [train.md](/scripts/train.md) for details on setting up the environment and training models on your own data.
 
 ## 🐨 Model Zoo
-Download GOMAA-Geo models from the given links below:
+Download GOMAA-Geo models from the links below:
 
 
 ## 📑 Citation
