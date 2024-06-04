@@ -38,7 +38,7 @@ Download GOMAA-Geo models from the given links below:
 
 ```bibtex
 @article{gomaa-geo,
-  title={},
+  title={GOMAA-Geo: GOal Modality Agnostic Active Geo-localization},
   author={Sarkar, Anindya and Sastry, Srikumar and Pirinen, Aleksis and Zhang, Chongjie and Jacobs, Nathan and Vorobeychik, Yevgeniy},
   booktitle={},
   year={2024}
