@@ -1,0 +1,11 @@
+transformers==4.39.2
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.25.2
+matplotlib==3.8.2
+scikit-learn==1.4.0
+scikit-image==0.22.0
+pytorch_lightning==2.2.1
+pandas==2.0.3
+easydict==1.11
+fire==0.5.0
