@@ -4,7 +4,7 @@ PyTorch implementation of _GOMAA-Geo: GOal Modality Agnostic Active Geo-localiza
 <div align="center">
 <img src="imgs/logo-3.png" width="250">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2404.06637-red?style=flat&label=arXiv)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2404.06637-red?style=flat&label=arXiv)](https://arxiv.org/abs/2406.01917v1)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)]()
 [![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Spaces-yellow?style=flat&logo=hug)]()</center>
 
@@ -17,7 +17,7 @@ PyTorch implementation of _GOMAA-Geo: GOal Modality Agnostic Active Geo-localiza
 (*Corresponding Author)
 </div>
 
-This repository is the official implementation of [_GOMAA-Geo_](), a goal modality agnostic active geo-localization agent that can geo-localize a goal location -- specified as an aerial patch, ground-level image, or textual description -- by navigating partially observed aerial imagery.
+This repository is the official implementation of [_GOMAA-Geo_](https://arxiv.org/abs/2406.01917v1), a goal modality agnostic active geo-localization agent that can geo-localize a goal location -- specified as an aerial patch, ground-level image, or textual description -- by navigating partially observed aerial imagery.
 
 ![](imgs/teaser_v2.jpg)
 
