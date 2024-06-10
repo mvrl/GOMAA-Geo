@@ -106,7 +106,7 @@ Coming Soon ...
 ## 📑 Citation
 
 ```bibtex
-@article{sarkar2024gomaageo,
+@article{sarkar2024gomaa,
   title={GOMAA-Geo: GOal Modality Agnostic Active Geo-localization},
   author={Sarkar, Anindya and Sastry, Srikumar and Pirinen, Aleksis and Zhang, Chongjie and Jacobs, Nathan and Vorobeychik, Yevgeniy},
   journal={arXiv preprint arXiv:2406.01917},
