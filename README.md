@@ -1,5 +1,5 @@
 # GOMAA-Geo
-PyTorch implementation of _GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_
+PyTorch implementation of _GOMAA-Geo: GOal Modality Agnostic Active Geo-localization_ (NeurIPS 2024)
 
 <div align="center">
 <img src="imgs/logo-3.png" width="350">
@@ -18,7 +18,9 @@ PyTorch implementation of _GOMAA-Geo: GOal Modality Agnostic Active Geo-localiza
 (*Corresponding Author)
 </div>
 
-This repository is the official implementation of [_GOMAA-Geo_](https://arxiv.org/abs/2406.01917v1), a goal modality agnostic active geo-localization agent that can geo-localize a goal location -- specified as an aerial patch, ground-level image, or textual description -- by navigating partially observed aerial imagery.
+![gomaa-thumbnail](https://github.com/user-attachments/assets/1a3288e8-606e-4336-b567-d98a17bde487)
+
+This repository is the official implementation of the **NeurIPS 2024 paper** [_GOMAA-Geo_](https://arxiv.org/abs/2406.01917v1), a goal modality agnostic active geo-localization agent that can geo-localize a goal location -- specified as an aerial patch, ground-level image, or textual description -- by navigating partially observed aerial imagery.
 
 ![](imgs/teaser_v2.jpg)
 
