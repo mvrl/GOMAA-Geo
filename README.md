@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 To run the code with the Masa or xBD data, download the zip file at the following link: https://www.kaggle.com/datasets/balraj98/massachusetts-buildings-dataset 
 To run the code with the xBD data, download the zip file at the following link: https://xview2.org/ (Note that, In order to download the dataset, first login using a valid email id) 
-To run the code with our MM-GAG data, download the zip file at the following Anonymous Huggingface link: https://huggingface.co/datasets/MVRL/MMGAG
+To run the code with our MM-GAG data, download the zip file at the following Anonymous Huggingface link: https://huggingface.co/datasets/Gomaa-Geo/MM-GAG
 
 The uncompressed folder named `data` should be placed at the root directory of this repository.
 This folder includes processed data for the following active geo localization problems:

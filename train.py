@@ -112,7 +112,7 @@ if __name__=='__main__':
                 prev_patch_id = seq.patch_sequence[-2]
                 goal_patch_id = seq.patch_sequence[0]
 
-                reward = ppo_agent.get_reward(cfg.data.patch_size, prev_patch_id, current_patch_id, goal_patch_id, seq.patch_sequence[1:-1], action, best_dist)
+                reward = ppo_agent.get_reward(cfg.data.patch_size, prev_patch_id, current_patch_id, goal_patch_id, seq.patch_sequence[1:-1], best_dist)
                 if reward==1:
                     best_dist = get_dist(current_patch_id, goal_patch_id)
                 done = (current_patch_id==GOAL_PATCH)
