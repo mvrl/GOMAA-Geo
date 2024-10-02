@@ -143,7 +143,7 @@ if __name__=='__main__':
         num_success = 0
 
         ppo_agent.eval()
-        cur_val_success = ppo_agent.validate(config, cfg.data.val_path)
+        cur_val_success, *_ = ppo_agent.validate(config, cfg.data.val_path)
         if cur_val_success >= val_success:
             torch.save(ppo_agent.state_dict(), os.path.join(cfg.train.ckpt_folder, cfg.train.expt_folder, cfg.train.expt_name))
             val_success = cur_val_success

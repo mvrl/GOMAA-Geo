@@ -395,7 +395,7 @@ class PPO(nn.Module):
                     prev_patch_id = seq.patch_sequence[-2]
                     goal_patch_id = seq.patch_sequence[0]
 
-                    reward = self.get_reward(cfg.data.patch_size, prev_patch_id, current_patch_id, goal_patch_id, seq.patch_sequence[1:-1], action, best_dist)
+                    reward = self.get_reward(cfg.data.patch_size, prev_patch_id, current_patch_id, goal_patch_id, seq.patch_sequence[1:-1], best_dist)
                     if reward==1:
                         best_dist=get_dist(current_patch_id, goal_patch_id)
                     avg_reward+=reward
